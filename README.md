@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+🔭 I’m currently working on **Python development applied to Architecture (BIM workflows, automations, and digital solutions).**  
+🌱 I’m currently learning **Full Stack Development (Django, React, and cloud deployment).**  
+👯 I’m looking to collaborate on **open-source projects related to architecture, automation, and data visualization.**  
+🤔 I’m looking for help with **best practices in scaling Django + React apps.**  
+💬 Ask me about **Python for Architecture, BIM integrations, or workflow automations.**  
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ariscahuana/)**  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: **When I’m not coding, I’m watching anime or playing video games.** 🎮
+
+
 <!--
 **arisc1994/arisc1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
