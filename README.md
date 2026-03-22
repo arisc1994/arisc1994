@@ -1,26 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aris! 👋
 
-🔭 I’m currently working on **Python development applied to Architecture (BIM workflows, automations, and digital solutions).**  
-🌱 I’m currently learning **Full Stack Development (Django, React, and cloud deployment).**  
-👯 I’m looking to collaborate on **open-source projects related to architecture, automation, and data visualization.**  
-🤔 I’m looking for help with **best practices in scaling Django + React apps.**  
-💬 Ask me about **Python for Architecture, BIM integrations, or workflow automations.**  
-📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ariscahuana/)**  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: **When I’m not coding, I’m watching anime or playing video games.** 🎮
+I am a **Software Developer** focused on bridging the gap between high-level programming and AEC (Architecture, Engineering, and Construction) workflows. My work centers on creating digital solutions that automate complex tasks, improve data visualization, and optimize BIM processes.
 
+Currently, I am focusing my efforts on **PANELMARKUP** and **PYEXTENSIONS**, two projects designed to enhance productivity and technical integration. These repositories reflect my commitment to building tools that solve real-world architectural and engineering challenges through clean, scalable code.
 
-<!--
-**arisc1994/arisc1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Technologies & Tools
 
-Here are some ideas to get you started:
+* **Languages:** Python, C#, JavaScript.
+* **Web Development:** Django, React, REST APIs, Nginx, Docker.
+* **BIM & Automation:** Revit API, Navisworks API, AutoCAD automation, VDC/BIM workflows.
+* **Cloud & Tools:** .NET (WPF/MVVM), PostgreSQL, SQLite, Linode (VPS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🕹️ Beyond the Code
+
+When I'm not deep in a debugging session or designing a new API, you'll likely find me:
+* **Gaming:** Navigating the dark corners of a horror franchise or completing riddles in the *Arkham* universe.
+* **Anime:** Keeping up with my favorite series.
+* **Automotive:** Learning about vehicle maintenance and specs.
+
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [ariscahuana](https://www.linkedin.com/in/ariscahuana/)
+* **Currently Learning:** Advanced Full Stack development and cloud deployment scaling.
+* **Pronouns:** He/Him
+
+⚡ **Fun fact:** I believe every complex architectural problem has a Python script waiting to solve it.
